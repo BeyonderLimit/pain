@@ -1,0 +1,13 @@
+# P.A.N. — requirements (Phases 1-4).
+spacy
+sounddevice
+python-vlc
+vosk
+piper-tts
+ollama
+aiohttp
+yt_dlp
+icalendar
+feedparser
+ddgs
+pynput
